@@ -8,7 +8,10 @@ Application of longitudinal data analysis methods to investigate the evolution o
 The study objective is to investigate the evolution of hearing thresholds and how these evolutions depends on age, by application of methods such as Summary Statistics, Multivariate, TwoStage and Random Effects analysis.
 
 ## Methodology:
-Different methods to identify the evolution of hearing thresholds over time and the effect of age were used: summary statistics, multivariate model, two-stage models and a random-effects model. 
+Different methods to identify the evolution of hearing thresholds over time and the effect of age were used: summary statistics, multivariate model, two-stage models and a random-effects model.
+
+## How to get started:
+The file (hearing.sas) contains the codes used to get the results and further explanation with regards to the models adopted during the analysis are located in the file hearing.md. The folder pics_hearing contains plots used during the analysis.
 
 ## Code:
 The software used to generate the codes for the analysis is SAS 9.4.
