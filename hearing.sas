@@ -1,7 +1,7 @@
 libname lda "C:\Users\NSOH TANIH\OneDrive\";
 
 /* Importing Dataset */
-proc print data="/folders/myfolders/LDA2020/hearing1000.sas7bdat";
+proc print data="hearing1000.sas7bdat";
 run;
 
 PROC SORT DATA=lda.hearing1000;
